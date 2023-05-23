@@ -1,2 +1,2 @@
 # OS
-You can find Operating Systems related programs in this Repository
+This repository features a collection of Operating Systems programs, providing developers with a concise resource for exploring various concepts and implementations. The programs cover topics such as process management, memory management, file systems, and scheduling algorithms. Whether you're a student or a professional in the field, this repository offers practical examples to deepen your understanding of Operating Systems.
